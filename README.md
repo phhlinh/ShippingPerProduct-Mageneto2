@@ -14,6 +14,7 @@
 <p><span>Ability to specify minimal and maximal margins</span></p>
 <p><span>Set up country specific shipping.</span></p>
 <p><span>Display error message functionality where method is not applicable.</span></p>
-<p><span>Sets the sort order value for the flat rate shipping option.</span></p>    <h3 id="installation-section" class="heading-product-content">Installation</h3><div class="product-demo-content"><p><span><span>Extract the file into your Magento root directory. The module will be installed under&nbsp;</span><em>app/code/PL/Shippingperitem/</em><br><span>From a terminal, run the following commands:</span><br><em>php bin/magento setup:upgrade</em><br><em>php bin/magento setup:static-content:deploy</em><br><em>php bin/magento cache:clean</em></span></p>
+<p><span>Sets the sort order value for the flat rate shipping option.</span></p>    
+<h3 id="installation-section" class="heading-product-content">Installation</h3><div class="product-demo-content"><p><span><span>Extract the file into &nbsp;</span><em>app/code/PL/Shippingperitem/</em><br><span>From a terminal, run the following commands:</span><br><em>php bin/magento setup:upgrade</em><br><em>php bin/magento setup:static-content:deploy</em><br><em>php bin/magento cache:clean</em></span></p>
 <p><strong>Example</strong></p>
 <p><span><em><img src="https://www.polacin.com/pub/media/wysiwyg/install-cmd.png" alt=""></em></span></p></div></div>
